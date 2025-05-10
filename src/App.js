@@ -1,7 +1,5 @@
 import React from 'react'
 import './App.css';
-// import Navbar2 from './components/Navbar2';
-import Navbar from './components/navbar'
 import Slider from './components/slider';
 import Banner from './components/banner';
 import Trending from './components/trending';
