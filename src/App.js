@@ -26,8 +26,6 @@ import Menring from './images/new-arrival/Men Ring.jpeg'
 import bracelete from './images/new-arrival/Bracelete (2).jpeg'
 import {
   BrowserRouter as Router,
-  Route,
-  Routes,
 } from "react-router-dom";
 
 const cards = [
